@@ -6,3 +6,7 @@ taichislam.code-workspace
 imgui.ini
 output/
 build/
+refs/
+aot_modules/
+aot_tests/
+data/

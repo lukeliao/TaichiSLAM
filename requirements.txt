@@ -1,5 +1,5 @@
 numpy
 scipy
 matplotlib
-taichi
+taichi>=1.0.0
 transformations
